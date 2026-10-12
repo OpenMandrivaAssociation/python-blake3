@@ -7,7 +7,7 @@
 #   abb store python-blake3-VERSION-vendor.tar.xz
 
 Name:		python-blake3
-Version:	1.0.9
+Version:	1.0.11
 Release:	1
 Summary:	Python bindings for the BLAKE3 hash function
 License:	CC0-1.0 OR Apache-2.0
